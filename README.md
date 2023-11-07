@@ -1,0 +1,1 @@
+# photosbed.img
